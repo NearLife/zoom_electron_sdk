@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+.vscode
+.node_modules
+node_modules
+build
+8.2.3
+package-lock.json
+*.exp
+*.iobj
+*.ipdb
+*.lib
+*.map
+*.pdb
+*.json
